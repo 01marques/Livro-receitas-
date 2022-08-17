@@ -14,7 +14,7 @@
 - _1 copo de cogumelos_
 - _1 copo de creme de leite_
 
-- *** batata palha*** a gosto
+-  _***batata palha*** a gosto_ 
 
    
 
